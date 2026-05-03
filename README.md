@@ -16,17 +16,29 @@
 
 ## 수상
 
-> 수상명 (날짜)
 
 ---
 
 ## 기술 스택
 
-### 카테고리1
-![기술명](https://img.shields.io/badge/기술명-색상?style=flat-square&logo=로고명&logoColor=white)
+### Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
-### 카테고리2
-![기술명](https://img.shields.io/badge/기술명-색상?style=flat-square&logo=로고명&logoColor=white)
+### Backend / DB
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+### Dev & Infra
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
+### Language
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### AI Tools
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white)
 
 ---
 
