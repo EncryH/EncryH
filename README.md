@@ -41,6 +41,7 @@
 ![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white)
 
 ---
+## 프로젝트
 
 ### 🖥️ Comlapse — AI 학습 기록 & 타임랩스
 > 개인 프로젝트 | **2025 ~ 기획 중**
