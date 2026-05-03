@@ -42,18 +42,30 @@
 
 ---
 
-## 프로젝트
+### 🖥️ Comlapse — AI 학습 기록 & 타임랩스
+> 개인 프로젝트 | **2025 ~ 기획 중**
 
-### 프로젝트명
-> 소속 · 팀명 | **기간**
+공부 모드를 켜는 순간부터 컴퓨터 활동을 자동 기록하고, AI가 요약·질의응답해주는 Windows 데스크탑 앱. 학습 세션을 타임랩스 영상으로 변환해 SNS 공유 지원.
 
-프로젝트 설명.
-
-- 주요 작업 1
-- 주요 작업 2
-- 주요 작업 3
+- Electron + React 기반 트레이 데몬 설계
+- Claude Haiku API 연동 세션 자동 요약 및 자연어 질의응답
+- FFmpeg 타임랩스 합성 + 활동 타임라인 오버레이
+- Supabase 기반 Pro 플랜 동기화 및 결제 설계
 
 🔗 [레포명](https://github.com/링크)
+
+---
+
+### 💼 알바판 (albapan.kr) — 알바생 익명 커뮤니티
+> 개인 프로젝트 | **2025 ~ 진행 중**
+
+알바생을 위한 익명 커뮤니티 웹 서비스. 직장 리뷰, 근무 환경 공유 등 아르바이트 특화 정보를 제공.
+
+- Next.js + Supabase 기반 풀스택 개발 및 운영
+- Cloudflare를 활용한 CDN 및 보안 설정
+- 익명 게시판, 직장 리뷰 기능 설계 및 구현
+
+🔗 [albapan.kr](https://albapan.kr)
 
 ---
 
@@ -61,9 +73,12 @@
 
 <div align="center">
 
-| 취득일 | 자격증 |
-|:---:|---|
-| 날짜 | 자격증명 |
+| 취득일 | 자격증 | 발급기관 |
+|:---:|---|:---:|
+| 2026.01.02 | 리눅스마스터 2급 | 한국정보통신진흥협회 |
+| 2021.10.01 | 프로그래밍 기능사 | 한국산업인력공단 |
+| 2021.04.16 | 컴퓨터활용능력 2급 | 대한상공회의소 |
+| 진행 중 | 네트워크관리사 2급 (필기 합격) | - |
 
 </div>
 
@@ -75,17 +90,8 @@
 
 | 기간 | 내용 |
 |:---:|---|
-| 기간 | 활동명 |
+| 2023.03 ~ | 상명대학교 정보보안공학과 재학 |
 
-</div>
-
----
-
-## GitHub Stats
-
-<div align="center">
- <img height="160" src="https://github-readme-stats.vercel.app/api?username=깃허브유저명&show_icons=true&theme=테마명&bg_color=배경색&border_color=테두리색&title_color=제목색&icon_color=아이콘색&text_color=텍스트색" />
- <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브유저명&layout=compact&theme=테마명&bg_color=배경색&border_color=테두리색&title_color=제목색&text_color=텍스트색" />
 </div>
 
 ---
