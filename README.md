@@ -38,7 +38,7 @@
 
 ### AI Tools
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logoColor=white)
-![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square&logo=OpenAI&logoColor=white)
 
 ---
 ## 프로젝트
@@ -57,11 +57,12 @@
 
 ---
 
-### 💼 알바판 (albapan.kr) — 알바생 익명 커뮤니티
+### 💼 알바판 (albapan.kr) — 알바생 커뮤니티
 > 개인 프로젝트 | **2025 ~ 진행 중**
 
 알바생을 위한 익명 커뮤니티 웹 서비스. 직장 리뷰, 근무 환경 공유 등 아르바이트 특화 정보를 제공.
 
+- Codex + Claude Code 기반 개발
 - Next.js + Supabase 기반 풀스택 개발 및 운영
 - Cloudflare를 활용한 CDN 및 보안 설정
 - 익명 게시판, 직장 리뷰 기능 설계 및 구현
