@@ -61,8 +61,6 @@
 - FFmpeg 타임랩스 합성 + 활동 타임라인 오버레이
 - Supabase 기반 Pro 플랜 동기화 및 결제 설계
 
-🔗 [레포명](https://github.com/링크)
-
 ---
 
 ### 💼 알바판 (albapan.kr) — 알바생 익명 커뮤니티
@@ -74,8 +72,6 @@
 - Cloudflare를 활용한 CDN 및 보안 설정
 - 익명 게시판, 직장 리뷰 기능 설계 및 구현
 - Codex + Claude Code 활용 AI 보조 개발
-
-🔗 [albapan.kr](https://albapan.kr)
 
 ---
 
