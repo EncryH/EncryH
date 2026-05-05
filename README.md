@@ -1,7 +1,5 @@
 <div align="center">
 
-<div align="center">
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:1f2933&height=220&section=header&text=Humin%20Kang&fontSize=56&fontColor=ffffff&fontAlignY=42&desc=Security%20%7C%20AI%20%7C%20Dev&descAlignY=62&descSize=18&descColor=d1d5db&animation=scaleIn" />
 
 </div>
