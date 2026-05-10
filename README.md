@@ -97,8 +97,3 @@
 
 </div>
 
----
-
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:색상1,50:색상2,100:색상3&height=120&section=footer" />
-</div>
