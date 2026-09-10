@@ -1,14 +1,25 @@
-</div>
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/_PORTFOLIO-준비중-7aa2f7?style=for-the-badge&logoColor=white)]()
-[![Blog](https://img.shields.io/badge/_BLOG-encryh.github.io-e94560?style=for-the-badge&logoColor=white)](https://encryh.github.io/)
-[![Email](https://img.shields.io/badge/_EMAIL-khm037723@gmail.com-a9b1d6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khm037723@gmail.com)
-
-</div>
-
----
-
-
-
+<p align="center">
+  <a href="YOUR_PORTFOLIO_URL">
+    <img
+      src="https://img.shields.io/badge/Portfolio-21262D?style=for-the-badge&logo=githubpages&logoColor=white"
+      alt="Portfolio"
+      height="34"
+    />
+  </a>
+  &nbsp;
+  <a href="https://encryh.github.io">
+    <img
+      src="https://img.shields.io/badge/Blog%20↗-21262D?style=for-the-badge&logo=bookstack&logoColor=white"
+      alt="Blog"
+      height="34"
+    />
+  </a>
+  &nbsp;
+  <a href="mailto:khm037723@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email%20↗-21262D?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+      height="34"
+    />
+  </a>
+</p>
